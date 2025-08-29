@@ -2,6 +2,17 @@
 
 A lightweight macOS application that prevents system and display sleep through system tray integration.
 
+## Preview
+
+**Inactive State (Sleep Allowed)**
+
+![Inactive State](preview-off.jpg)
+
+
+**Active State (Sleep Prevented)**
+
+![Active State](preview-on.jpg)
+
 ## Features
 
 - Prevents system sleep and display sleep
